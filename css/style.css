@@ -5,12 +5,25 @@ body{
     color: #333;
 }
 .container{
+    
     margin:auto;
     width:70%;
-    padding: 1em;
+  
     text-align: left;
     border: 1px solid #ddd;
 }
 .container h1{
     font-size: 20px;
+}
+.cabecera{
+    font-size: 1.5em;
+    font-weight: bold;
+    text-align: center;
+    background: #88f;
+    color:White;
+    margin: 0;
+    padding: .5em;
+}
+.post{
+    padding: 1em;
 }
